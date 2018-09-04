@@ -9,6 +9,6 @@ http://scottdubar.com/illustration/this-months-map-illustration-red-river/
 
 ![Become Happiness] https://miamistudent.net/the-red-river-gorge-more-than-just-a-climbing-town/
 
-###Sources
+### Sources
 Richard Helsley
 https://miamistudent.net/the-red-river-gorge-more-than-just-a-climbing-town/
