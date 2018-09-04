@@ -7,7 +7,7 @@
 ### Improvised Map of the Gorge
 http://scottdubar.com/illustration/this-months-map-illustration-red-river/
 
-[Become Happiness] https://i0.wp.com/miamistudent.net/wp-content/uploads/2017/10/RiverGorge_Travel_DevonShuman.jpg?resize=1280%2C640&ssl=1
+[Become Happiness] (https://i0.wp.com/miamistudent.net/wp-content/uploads/2017/10/RiverGorge_Travel_DevonShuman.jpg?resize=1280%2C640&ssl=1)
 
 ### Sources
 Richard Helsley
