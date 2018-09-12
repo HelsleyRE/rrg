@@ -9,5 +9,5 @@
 ![Become Happiness](https://i0.wp.com/miamistudent.net/wp-content/uploads/2017/10/RiverGorge_Travel_DevonShuman.jpg?resize=1280%2C640&ssl=1)
 
 ### Sources
-Richard Helsley
-https://miamistudent.net/the-red-river-gorge-more-than-just-a-climbing-town/
+* Richard Helsley
+* https://miamistudent.net/the-red-river-gorge-more-than-just-a-climbing-town/
