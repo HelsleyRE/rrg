@@ -2,7 +2,7 @@
 
 ## Facts
 1. The Red River Gorge is part of the Daniel Boone National Forest
-2. The Red River Gorge is a lot of fun! With many activites for the public to take part in. 
+2. The Red River Gorge is a lot of fun! 🎉  With many activities for the public to enjoy. 
 
 ### Improvised Map of the Gorge(http://scottdubar.com/illustration/this-months-map-illustration-red-river/)
 
