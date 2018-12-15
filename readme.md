@@ -18,14 +18,6 @@ In person view of Princess Arch!
 <!DOCTYPE html>
 <html>
 
-<head>
-  <meta charset=utf-8 />
-  <title>Princess Arch</title>
-  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-  <!-- Find unique fonts at Google Fonts -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css" />
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
-
   <style>
     body {
       margin: 0;
