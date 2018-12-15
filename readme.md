@@ -4,7 +4,7 @@ Is one of the best public recreation areas in Kentucky. It's worth the drive!
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.js"></script>
 
 <!-- Make the instructions that tell the library how to handle requests -->
-<script>
+  <script>
 		// FYI: The double forward slash makes a comment in the script tag
 
 		// Define a variable that centers the intial view and zoom level. 
@@ -35,7 +35,7 @@ Is one of the best public recreation areas in Kentucky. It's worth the drive!
 			.bindTooltip(message)
 			.addTo(map)
 			.openTooltip();
-</script>
+  </script>
 
 ## [Improvised Map of the Gorge](http://scottdubar.com/illustration/this-months-map-illustration-red-river/)
 
