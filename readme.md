@@ -4,7 +4,7 @@ Is one of the best public recreation areas in Kentucky. It's worth the drive!
 ## [Cartoon Map of the Gorge](http://scottdubar.com/illustration/this-months-map-illustration-red-river/)
 
 ### Wanders of the Gorge!!!
-[Princess Arch](https://github.com/HelsleyRE/rrg/tree/master/Interactive%20Map) is one of the smaller arches in the gorge. This doesn't mean however that is doesnt have a large personality or character. It would be a shame to miss out on the beauty and wonder of this little arch that has the benefit of easy access. Less than a mile from the nearest parking area. The easy trail and great view make this arch well worth the journey.
+[Princess Arch](https://api.mapbox.com/styles/v1/helsleyre/cjp34o3z928ld2rn138vlorx8.html?fresh=true&title=true&access_token=pk.eyJ1IjoiaGVsc2xleXJlIiwiYSI6ImNqcDM0Ym4wdTBlNHQzcnMwdDRmN3FpdWsifQ.4cypf_JwfOAN9YQJnc42Cw#16.2/37.827250/-83.618460/0) is one of the smaller arches in the gorge. This doesn't mean however that is doesnt have a large personality or character. It would be a shame to miss out on the beauty and wonder of this little arch that has the benefit of easy access. Less than a mile from the nearest parking area. The easy trail and great view make this arch well worth the journey.
 
 <img src="Princess_Arch.jpg">    
 Map of Princess Arch inside of Red River Gorge.
