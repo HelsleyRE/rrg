@@ -74,7 +74,7 @@ Princess Arch
       width: 100%;
     }
     /* The link box that goes beneath the static map */
-    .linkbox {
+    .linkbox {https://github.com/HelsleyRE/rrg/blob/master/Basemap/RRG_Arches.pdf}
       margin: 5px 0 15px 0;
       display: block;
     }
@@ -96,11 +96,12 @@ Princess Arch
 
 <h2>Authored by: Richard Helsley</h2>
 
-This map was generated using State GIS data for Kentucky. The generation of our own data namely hill shades. There was also the use of the National List of Arches.
+This map was generated using State GIS data for Kentucky. The generation of our own data namely hill shades. There was also the use of the National List of Arches. We used several [Python Codes](https://github.com/HelsleyRE/rrg/blob/master/Lab-04.ipynb) in order to speed up the work process and to get used to working with python. 
     <h3>Map details</h3>
     <p>
 <img src="Basemap/RRG_Arches.jpg">    
     </p>
+[PDF Map Download](https://github.com/HelsleyRE/rrg/blob/master/Basemap/RRG_Arches.pdf)
     <p>
       University of Kentucky GEO 409, Spring 2018.
     </p>
