@@ -1,5 +1,42 @@
 # Red River Gorge
 Is one of the best public recreation areas in Kentucky. It's worth the drive!
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.js"></script>
+
+<!-- Make the instructions that tell the library how to handle requests -->
+<script>
+		// FYI: The double forward slash makes a comment in the script tag
+
+		// Define a variable that centers the intial view and zoom level. 
+		var options = {
+			center: [37.8332, -83.6077], // lat, long values of Gladie Visitor center
+			// Whoa! Let's back off here a little.
+			zoom: 14 // Integer value. Higher value greater the scale.
+		}
+
+		// write a custom message for the Leaflet tooltip
+		var message = 'Enjoy The Forest!';
+
+		// ------------------------------------------------------ 
+		// Below are parameters you can learn to manipulate in GEO 405 and GEO 672.
+		
+		// Create a Leaflet map in our division container with id of 'map'
+		var map = L.map('map', options);
+
+		// request some basemap tiles and add to the map
+		var tiles = L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+			attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">Carto</a>',
+			subdomains: 'abcd',
+			maxZoom: 19
+		}).addTo(map);
+
+		// add a marker to the center of the map and open the tooltip
+		L.marker(map.getCenter())
+			.bindTooltip(message)
+			.addTo(map)
+			.openTooltip();
+</script>
+
 ## [Improvised Map of the Gorge](http://scottdubar.com/illustration/this-months-map-illustration-red-river/)
 
 ### Wanders of the Gorge!!!
