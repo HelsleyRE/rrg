@@ -6,9 +6,14 @@ Is one of the best public recreation areas in Kentucky. It's worth the drive!
 ### Wanders of the Gorge!!!
 [Princess Arch]() is one of the smaller arches in the gorge. This doesn't mean however that is doesnt have a large personality or character. It would be a shame to miss out on the beauty and wonder of this little arch that has the benefit of easy access. Less than a mile from the nearest parking area. 
 
+<img src="Princess_Arch.jpg">    
+Map of Princess Arch inside of Red River Gorge.
+
+[To Download Click Here](https://raw.githubusercontent.com/HelsleyRE/rrg/master/Princess_Arch.jpg)
+
 <img src="Basemap/Arch_Main.jpg">    
 
-Princess Arch
+In person view of Princess Arch!
 
 <!DOCTYPE html>
 <html>
@@ -75,7 +80,7 @@ Princess Arch
       width: 100%;
     }
     /* The link box that goes beneath the static map */
-    .linkbox {https://github.com/HelsleyRE/rrg/blob/master/Basemap/RRG_Arches.pdf}{
+    .linkbox {}{
       margin: 5px 0 15px 0;
       display: block;
     }
