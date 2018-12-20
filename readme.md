@@ -15,37 +15,20 @@ Map of Princess Arch inside of Red River Gorge.
 
 In person view of Princess Arch!
 
-<!DOCTYPE html>
-
-<body>
-  <div id='map'>
-  </div>
-  <section>
-    <!-- Add you information below -->
-    <h1>PDF map of Arches in Red River Gorge</h1>
+<h1>PDF map of Arches in Red River Gorge</h1>
 
 <h2>Authored by: Richard Helsley</h2>
 
 This map was generated using State GIS data for Kentucky. The generation of our own data namely hill shades. There was also the use of the National List of Arches. We used several [Python Codes](https://github.com/HelsleyRE/rrg/blob/master/Lab-04.ipynb) in order to speed up the work process and to get used to working with python. 
-    <h3>Map details</h3>
+
+<h3>Map details</h3>
     <p>
 <img src="Basemap/RRG_Arches.jpg">    
     </p>
 [PDF Map Download](https://github.com/HelsleyRE/rrg/blob/master/Basemap/RRG_Arches.pdf)
     <p>
-      University of Kentucky GEO 409, Spring 2018.
+      University of Kentucky GEO 409, Fall 2018.
     </p>
-    <hr>
-    <ul>
-      <li>My <a href="https://user.github.io/bluegrass">Bluegrass maps</a></li>
-      <li>Follow me on twitter <a href="https://twitter.com/">@me</a></li>
-      <li>Visit <a href='https://github.com'>@mygithubuser</a> </li>
-      <li><a href="https://uky-gis.github.io">UKy GIS and Mapping</a></li>
-    </ul>
-  </section>
-
-</body>
-</html>
 
 
 ### Sources
